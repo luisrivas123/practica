@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "practica",
-    "slug": "practica",
+    "name": "app-name",
+    "slug": "app-name",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,7 +22,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": ["expo-localization"]
+    }
   }
 }
